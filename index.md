@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](中文.md)
+* [中文](中文.md)
 
